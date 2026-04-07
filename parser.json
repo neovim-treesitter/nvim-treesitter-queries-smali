@@ -1,8 +1,7 @@
 {
-  "min_version": null,
-  "max_version": null,
-  "location": null,
-  "lang": "smali",
+  "semver": false,
   "url": "https://github.com/tree-sitter-grammars/tree-sitter-smali",
-  "semver": false
+  "lang": "smali",
+  "parser_version": "fdfa6a1febc43c7467aa7e937b87b607956f2346",
+  "location": null
 }
