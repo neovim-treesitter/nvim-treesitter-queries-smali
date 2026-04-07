@@ -1,7 +1,7 @@
 {
-  "semver": false,
-  "url": "https://github.com/tree-sitter-grammars/tree-sitter-smali",
   "lang": "smali",
+  "url": "https://github.com/tree-sitter-grammars/tree-sitter-smali",
+  "semver": false,
   "parser_version": "fdfa6a1febc43c7467aa7e937b87b607956f2346",
   "location": null
 }
